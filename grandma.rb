@@ -1,7 +1,8 @@
 speak_to_grandma("phrase")
-  if phrase == Hi Nana, how are you?'.downcase
+  if phrase == "Hi Nana, how are you?.downcase"
     puts "HUH?! SPEAK UP, SONNY!"
-  elsif phrase == 
+  elsif phrase ==
+  puts 
   end
 # Write a speak_to_grandma method.
 
