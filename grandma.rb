@@ -4,6 +4,7 @@ speak_to_grandma("phrase")
   elsif phrase == "WHAT DID YOU EAT TODAY?".upcase
     puts "NO, NOT SINCE 1938!"
   else 
+    puts "I LOVE YOU TOO PUMPKIN!"
   end
 # Write a speak_to_grandma method.
 
