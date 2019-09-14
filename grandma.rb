@@ -1,3 +1,4 @@
+speak_to_grandma(phrase)
 # Write a speak_to_grandma method.
 
 # Whatever you say to grandma, she should respond with
