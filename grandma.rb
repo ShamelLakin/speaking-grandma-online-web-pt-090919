@@ -1,5 +1,6 @@
 speak_to_grandma(phrase)
-  if 
+  if phrase == .uppercas
+    puts ""
   end
 # Write a speak_to_grandma method.
 
