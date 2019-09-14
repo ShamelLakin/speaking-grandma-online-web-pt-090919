@@ -1,5 +1,5 @@
 speak_to_grandma("phrase")
-  if phrase == .downcase
+  if phrase == Hi Nana, how are you?'.downcase
     puts "HUH?! SPEAK UP, SONNY!"
   elsif phrase == 
   end
