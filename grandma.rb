@@ -1,7 +1,7 @@
 speak_to_grandma("phrase")
-  if phrase == "Hi Nana, how are you?".downcase
+  if speak_to_grandma == "Hi Nana, how are you?".downcase
     puts "HUH?! SPEAK UP, SONNY!"
-  elsif phrase == "WHAT DID YOU EAT TODAY?".upcase
+  elsif speak_to_grandma == "WHAT DID YOU EAT TODAY?".upcase
     puts "NO, NOT SINCE 1938!"
   else 
     puts "I LOVE YOU TOO PUMPKIN!"
